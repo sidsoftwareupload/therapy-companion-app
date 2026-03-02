@@ -8,6 +8,8 @@ The application runs entirely on-device using local storage, ensuring privacy an
 
 The share feature allows users to share a csv document with their therapists containing the data of the triggers and when they occured. 
 
+Soon, users will be able to vent to an AI model and it will be able to provide a second opinion and insights. NOT A MEDICAL DIAGNOSES.
+
 ---
 
 ## Screenshots
@@ -34,7 +36,6 @@ Therapy sharing support – Users can generate a record of their trigger history
 Local storage – All data is stored locally on the device for privacy.
 
 Simple mobile interface designed for quick daily use.
-
 
 ---
 
