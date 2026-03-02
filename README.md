@@ -4,7 +4,7 @@ A Flutter-based mobile application designed to help users train positive cogniti
 
 The app allows users to associate affirmations with personal triggers, reinforcing neural pathways through repetition and reflection. The goal is to help users build healthier mental responses over time.
 
-The application runs entirely on-device using local storage, ensuring privacy and fast performance.
+The application runs entirely on-device using local storage, ensuring privacy and fast performance. Available to testers on the play store upon request.
 
 The share feature allows users to share a csv document with their therapists containing the data of the triggers and when they occured. 
 
