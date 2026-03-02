@@ -49,3 +49,26 @@ Platform: Android (compatiable with other platforms like ios and windows using F
 Storage: Local device storage
 
 Development Environment: Android Studio
+
+
+---
+
+## Installation
+
+1. Clone the repository:  
+```bash
+git clone https://github.com/<your-username>/therapy-companion-app.git
+```
+
+2. Navigate to project directory:
+```bash
+cd therapy-companion-app
+```
+3. Get dependencies:
+```bash
+flutter pub get
+```
+4. Run on device or emulator:
+```bash
+flutter run
+```
