@@ -1,0 +1,42 @@
+name: therapy_companion
+description: A mental health tracking app for dissociation episodes and triggers
+version: 1.0.0+12
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.0
+  shared_preferences: ^2.2.2
+  path_provider: ^2.1.1
+  path: ^1.8.3
+  fl_chart: ^0.64.0
+  intl: ^0.18.1
+  share_plus: ^7.2.1
+  permission_handler: ^11.3.1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  csv: ^6.0.0
+  file_saver: ^0.2.9
+  tflite_flutter: ^0.10.4
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1 # Added this line
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/app_icon.png"
+  adaptive_icon_background: "#2E7D32"
+  adaptive_icon_foreground: "assets/icon/app_icon_foreground.png"
+
+flutter:
+  uses-material-design: true
+  assets: 
+    - assets/icon/
